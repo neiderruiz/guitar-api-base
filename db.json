@@ -1,0 +1,9 @@
+{
+  "type_guitars": [
+    {
+      "name": "example type guitar",
+      "url_image": "https://images.unsplash.com/photo-1564186763535-ebb21ef5277f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=4800",
+      "id": 2
+    }
+  ]
+}
